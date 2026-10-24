@@ -3,7 +3,7 @@
 **A first-person superbike highway game inspired by the Sylhet–Dhaka road.**
 Dodge buses, trucks, cars and CNGs, pass the Ali Amjad’s Clock tower, and see how far you can ride. Built for phones first, and it also works on desktop.
 
-▶ **Play now:** [itproborno.github.io/shorokrush]([https://itproborno.github.io/shorokrush/](https://itproborno.github.io/ShorokRush/))
+▶ **Play now:** []([https://itproborno.github.io/shorokrush/](https://itproborno.github.io/ShorokRush/))
 
 ---
 
